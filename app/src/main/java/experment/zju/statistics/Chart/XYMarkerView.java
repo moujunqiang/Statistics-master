@@ -13,10 +13,7 @@ import java.text.DecimalFormat;
 
 import experment.zju.statistics.R;
 
-/**
- *
- * @author Philipp Jahoda
- */
+
 public class XYMarkerView extends MarkerView {
 
     private TextView tvContent;
